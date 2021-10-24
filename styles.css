@@ -27,7 +27,7 @@
     font-size: 18px;
     color: #E5E7EB;
     display: block;
-    padding: 1em;`
+    padding: 1em;
 }
 
 .mainsection1text {
@@ -37,7 +37,7 @@
     float: left;
 }
 
-.section1text {
+.section1 {
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -46,8 +46,28 @@
 }
 
 .secondarysection1text {
-    margin-top: 8px;
+    margin-top: 10px;
     margin-bottom: 16px;
     color: white;
+    font-size: 18px;
+    float: left;
 }
+.silviaimage {
+    width: 500px;
+    height: 350px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.NothingButton {
+    width: 120px;
+    height: 40px;
+    font-size: 10px;
+    font-weight: 800;
+    border-radius: 10px;
+    border: none;
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
 
