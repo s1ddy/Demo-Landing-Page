@@ -111,3 +111,23 @@
     color: #232423;
 }
 
+.section-3 {
+    padding: 3% 20% 3% 20%;
+    background-color: #E5E7EB;  
+    text-align: center;
+}
+
+.section-3 .quote-text {
+    font-style: italic;
+    font-style: bold;
+    font-weight: 300;
+    color: #1F2937;
+    font-size: 40px;
+}
+
+.section-3 .quote-name {
+    color: black;
+    font-size: 20px;
+    padding-left: 80%;
+    font-weight: 800;   
+}
